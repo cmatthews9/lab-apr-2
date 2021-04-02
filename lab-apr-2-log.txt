@@ -1,0 +1,17 @@
+commit 9857e84e9fcd24f32cf9882dd066dfb7e3d6dc06
+Author: Elizabeth Rezente <emrezente@ucdavis.edu>
+Date:   Fri Apr 2 20:38:25 2021 +0000
+
+    Elizabeth added plans
+
+commit 6e87fec34c8a7b2d2043a30d948222f5405d135e
+Author: Corinne Matthews <clmatthews@ucdavis.edu>
+Date:   Fri Apr 2 20:28:53 2021 +0000
+
+    Created weekend_plans.txt
+
+commit b50f67d743f985b1b36b4dd3c87bed5d4ccf1911
+Author: cmatthews <64560950+cmatthews9@users.noreply.github.com>
+Date:   Fri Apr 2 13:24:07 2021 -0700
+
+    Initial commit
